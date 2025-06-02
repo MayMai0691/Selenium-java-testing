@@ -18,10 +18,9 @@ public class Topic_04_Operator {
     public  void comapreNumber() {
         int a = 5;
         int b = 4;
-        if(a==b){
-            System.out.println("true");
-
-        }
+        boolean value;
+        value = (a>b) ?true : false;
+            System.out.println("value");
     }
     @Test
     public void nameAge(){
