@@ -22,8 +22,8 @@ public void TC_02(){
 }
 @Test
 public void TC_03(){
-    String value = "Hello Automation Testing";
+    String value = "Automation Testing";
 
-    System.out.println(value);
+    System.out.println( "Hello " + value);
     }
 }
