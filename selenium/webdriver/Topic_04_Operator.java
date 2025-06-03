@@ -26,6 +26,6 @@ public class Topic_04_Operator {
     public void nameAge(){
         String name ="Tuan";
         int age=27;
-        System.out.println("After 15 years,age of" + name + "will be" + (age+15));
+        System.out.println("After 15 years,age of" + name + " will be" + (age+15));
     }
 }
