@@ -10,7 +10,7 @@ public class Topic_08_For {
     public static void main (String[]args){
         Topic_08_For obj= new Topic_08_For();
         //obj.BT_01();
-       obj.BT_03();
+       obj.BT_02();
     }
     public void BT_01(){
         int n = scanner.nextInt();
@@ -23,11 +23,11 @@ public class Topic_08_For {
         for (int i = numberA ; i<=numberB; i++)
         System.out.println(i);
     }
-    public void BT_03(){
+   /* public void BT_03(){
         int Tong=0;
         for (int i =1; i<=10 ; i++);
-        if (i% 2 ==0){
+        if ( i % 2 ==0){
             Tong = Tong+i;
         }
-    }
+    }*/
 }
