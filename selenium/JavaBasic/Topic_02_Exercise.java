@@ -1,4 +1,4 @@
-package webdriver;
+package JavaBasic;
 
 public class Topic_02_Exercise {
     static int studentNumber;

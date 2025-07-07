@@ -1,4 +1,4 @@
-package webdriver;
+package JavaBasic;
 import org.testng.annotations.Test;
 
 public class Topic_03_DataType {
